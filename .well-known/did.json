@@ -1,0 +1,19 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:birendrams.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:birendrams.github.io#53de3c887ae0c319d0ef9985f17aa4b616111e6ae08562ad402b71e58507d981",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:birendrams.github.io",
+      "publicKeyJwk": {
+        "kid": "53de3c887ae0c319d0ef9985f17aa4b616111e6ae08562ad402b71e58507d981",
+        "kty": "RSA",
+        "alg": "RS256",
+        "x5c": [
+          "MIICuDCCAaCgAwIBAgIUFzJfrpAvK7Z5G/+V0u1wlmOL7nAwDQYJKoZIhvcNAQELBQAwFjEUMBIGA1UEAwwLc2VsZi1zaWduZWQwHhcNMjExMDIxMTQzNTU0WhcNMjExMDMxMTQzNTU0WjAWMRQwEgYDVQQDDAtzZWxmLXNpZ25lZDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANB/vRdBe07atix9yHSwCwQS+7FeSjQSPKclsGYI76bahibIOneO4fKd5gsxp6DR6AsSA+nNn33nDOn1VsPQc5cl/rb/BiZahnlb9YwamHDq2CrFsMTwu6klqOUBo1d3CdE0ARe5ri9Jj9BUaITH5cNN7cONPcIFkqyMbHIHx3G8lb3e5O+RlB2wRv2AQgCZM1OxIkmFwsrcpEGGMFAhIAordZMQ4Q9gaVHZ5eGXTNyayZLXMgPWuNMI5YHz+Ze28a1KEkdX7r3HNXua/f9YplCjcwANiq1x6tA161p1VrnpIDYi8TZj5e0Va96l7BWS/aGZ7jiUHC6BU2jne+pGyCECAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAux3EEjAUSwAnyb33qVYbsbyDyJn5PiKQalIFF9HXCihi8BYYvMLKv3yi4CJ+CHR2BcTo4VDEQPddwsa9Tezqtcu69V0NK7kVhz7NjKcdh5pi5GRGJhJeye0sAJoeas5I0XYGu1X0p1aoeGTxGD6fP+FwoAS3HqK3RHpOjaXj7diPVhbCpJZ4NCtBhKNchHhbkJxKp8qovAAesfXx6umUMUfQqI6z6De71fWErwRcUS6TS+9ujRCaEQRNnsFf8pYi4hHpM7HXPpoQ02wnEb5Nokrog9LtaTrve9HL68dTgI8PgmK4oQgKLCoua27/S0j1ef2hLkz9zLRVI0HNaE4oXg=="
+        ]
+      }
+    }
+  ]
+}
